@@ -1,0 +1,35 @@
+header {
+    background-color: #E6E6E6;
+}
+
+nav {
+    text-align: center;
+}
+
+h1 {
+   background-color: #C4C4C4;
+   padding: 20px;
+   color: #005677;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: 700;
+   font-size: 35px;
+   line-height: 29.64px;
+   background-position: center;
+   text-align: center;
+}
+
+h4 {
+    background-color: #C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 16.94px; 
+    padding-top: 10px;
+    width: 1440px;
+    height: 30px;
+    top: 518px;
+    left: 0px;
+    
+
+}
